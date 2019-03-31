@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01c7d2</color>
+    <color name="colorPrimaryDark">#00b2bc</color>
+    <color name="colorAccent">#ff706a</color>
+
+    <color name="colorDespesaPrimary">#ff706a</color>
+    <color name="colorDespesaPrimaryDark">#e66560</color>
+    <color name="colorDespesaAccent">#ff706a</color>
+
+    <color name="colorReceitaPrimary">#00d39e</color>
+    <color name="colorReceitaPrimaryDark">#00be8b</color>
+    <color name="colorReceitaAccent">#00d39e</color>
+
+
+</resources>
